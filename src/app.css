@@ -1,7 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-.h-view {
-	height: calc(100vh - 70px);
-}
